@@ -1,16 +1,13 @@
 ## Hi there 👋
-background-color:#ffffff;
 
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/></td>
-<td><img src="https://cdn.simpleicons.org/roblox" width="50"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/></td>
-</tr>
-</table>
+<p align="center" style="background-color:#161b22; padding:20px; border-radius:15px; border:1px solid #30363d;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" style="margin:15px;"/>
+  <img src="https://cdn.simpleicons.org/roblox/white" width="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" style="margin:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" style="margin:15px;"/>
+</p>
 
 Here are some ideas to get you started:
 
