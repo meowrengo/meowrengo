@@ -1,6 +1,6 @@
-![banner](https://your-link.com/banner](https://canva.link/kyduwm3irljp6qu)](https://canva.link/kyduwm3irljp6qu).png)
-## Hi there 👋
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1ZHkbjzp34AukynlC4douofyPbXwCTf_3"/>
+</p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/> &nbsp;&nbsp;&nbsp;
