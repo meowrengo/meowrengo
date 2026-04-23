@@ -1,4 +1,4 @@
-![banner]([https://your-link.com/banner](https://canva.link/kyduwm3irljp6qu).png)
+![banner](https://your-link.com/banner](https://canva.link/kyduwm3irljp6qu)](https://canva.link/kyduwm3irljp6qu).png)
 ## Hi there 👋
 
 <p>
