@@ -14,29 +14,27 @@
 
 ![](https://komarev.com/ghpvc/?username=meowrengo-github-username)
 
-<h2 align="center">🔭 I’m currently working on</h3>
+<h2 align="center">🔭 I’m currently working on</h2>
 • Roblox Game<br>
 • My First Games from Unity & Unreal Engine
 
-<h2 align="center">🌱 I’m currently learning</h3>
+<h2 align="center">🌱 I’m currently learning</h2>
 • Roblox Studio<br>
 • Unity Engine<br>
 • Unreal Engine
 
-<h2 align="center">👯 I’m looking to collaborate on</h3>
+<h2 align="center">👯 I’m looking to collaborate on</h2>
 • I’m seeking opportunities to collaborate with game companies that value passion, creativity, and a strong interest in game development.
 
-<h2 align="center">😄 Pronouns</h3>
+<h2 align="center">😄 Pronouns</h2>
 • I'm a girl<br>
 • My Name is Kodsakorn Kraithongsuk<br>
 • My Nickname is First
 
-<h2 align="center">⚡ Fun fact</h3>
+<h2 align="center">⚡ Fun fact</h2>
 • I’m a Computer Engineering student with a strong passion for game development. While I’m still building my experience, I’m highly motivated to learn and grow because I genuinely love this field.
 
-<h2 align="center">📫 How to reach me</h3>
-<h3 align="center">Contact</h3>
-
+<h2 align="center">📫 How to reach me</h2>
 <p align="center">
   <a href="https://www.instagram.com/meowrengo/" target="_blank">
     <img height="40" alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
