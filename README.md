@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=13LOqBdTjEJVpdMv3iDUwuGZDBf_z_cOn"/>
 </p>
 
-<h3 align="center">Game Dev & Languages</h3>
+<h3 align="center">Technology Stack</h3>
 <p align="center">
   <img height="40" alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img height="40" alt="Roblox" src="https://img.shields.io/badge/-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
