@@ -15,25 +15,20 @@
 ![](https://komarev.com/ghpvc/?username=meowrengo-github-username)
 
 <h2 align="center">🔭 I’m currently working on</h3>
-• Roblox Game
-
+• Roblox Game<br>
 • My First Games from Unity & Unreal Engine
 
 <h2 align="center">🌱 I’m currently learning</h3>
-• Roblox Studio
-
-• Unity Engine
-
+• Roblox Studio<br>
+• Unity Engine<br>
 • Unreal Engine
 
 <h2 align="center">👯 I’m looking to collaborate on</h3>
 • I’m seeking opportunities to collaborate with game companies that value passion, creativity, and a strong interest in game development.
 
 <h2 align="center">😄 Pronouns</h3>
-• I'm a girl
-
-• My Name is Kodsakorn Kraithongsuk
-
+• I'm a girl<br>
+• My Name is Kodsakorn Kraithongsuk<br>
 • My Nickname is First
 
 <h2 align="center">⚡ Fun fact</h3>
