@@ -33,7 +33,6 @@
 • I'm a girl
 
 • My Name is Kodsakorn Kraithongsuk
-
 • My Nickname is First
 
 <h3>⚡ Fun fact</h3>
